@@ -1,1 +1,1 @@
-# Between-Two-Sets-algo
+# Between-Two-Sets-algo This program finds how many integers are between two sets, meaning every integer in a divides them and they divide every integer in b. It does this by calculating the LCM of a, the GCD of b, and counting the multiples of the LCM that evenly divide the GCD.
